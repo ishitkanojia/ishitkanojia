@@ -94,7 +94,7 @@ An application that alerts users before reaching their destination, helping comm
 * Secure software development internships
 
 ---
-<!--
+
 ## GitHub Statistics
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ishitkanojia\&show_icons=true)
@@ -102,7 +102,7 @@ An application that alerts users before reaching their destination, helping comm
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ishitkanojia\&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=ishitkanojia)
--->
+
 ---
 
 
